@@ -8,5 +8,7 @@
 * [Java Practice Workbook](https://github.com/paulAlexSerban/Java-Workbook)
 ## Python
 * [Python Practice Workbook](https://github.com/paulAlexSerban/Python-Workbook)
+## DevOps
+* [Docker Practice Workbook](https://github.com/paulAlexSerban/docker-practice-workbook)
 ## Mischelaneous
 * [XML-XSLT-XQuery-XPath](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
