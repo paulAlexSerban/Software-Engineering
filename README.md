@@ -10,5 +10,6 @@
 * [Python Practice Workbook](https://github.com/paulAlexSerban/Python-Workbook)
 ## DevOps
 * [Docker Practice Workbook](https://github.com/paulAlexSerban/docker-practice-workbook)
+* [Shell Scripting Workbook](https://github.com/paulAlexSerban/Shell-Scripting-Workbook)
 ## Mischelaneous
 * [XML-XSLT-XQuery-XPath](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
