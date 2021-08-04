@@ -13,3 +13,4 @@
 * [Shell Scripting Workbook](https://github.com/paulAlexSerban/Shell-Scripting-Workbook)
 ## Mischelaneous
 * [XML-XSLT-XQuery-XPath](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
+* [VS Code Setup](https://github.com/paulAlexSerban/VS-Code_Setup)
