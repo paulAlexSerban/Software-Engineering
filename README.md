@@ -3,14 +3,9 @@
 
 ## [Java](https://github.com/paulAlexSerban/Java-Software-Engineering/blob/main/README.md)
 
-## [Python]()
-### Practice Workbook Repos
-* [Python Practice Workbook](https://github.com/paulAlexSerban/Python-Workbook)
-### Certification Repos
-* [FreeCodeCamp.org - Data Analysis with Python]()
-* [FreeCodeCamp.org - Scientific Computing with Python]()
+## [Python](https://github.com/paulAlexSerban/Python-Software-Engineering/blob/main/README.md)
 
-## [Php]()
+## [Php](https://github.com/paulAlexSerban/Php-Software-Engineering/blob/main/README.md)
 
 ## DevOps
 * [Docker Practice Workbook](https://github.com/paulAlexSerban/docker-practice-workbook)
