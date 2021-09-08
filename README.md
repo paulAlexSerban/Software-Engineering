@@ -1,9 +1,7 @@
 # Software-Engineering
 ## [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering/blob/main/README.md)
 
-
-## [Java](https://github.com/paulAlexSerban/Java-Workbook)
-
+## [Java](https://github.com/paulAlexSerban/Java-Software-Engineering/blob/main/README.md)
 
 ## [Python]()
 ### Practice Workbook Repos
