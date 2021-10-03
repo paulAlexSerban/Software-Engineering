@@ -1,5 +1,6 @@
 # Software-Engineering
 ## [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering/blob/main/README.md)
+### [TypeScript]()
 
 ## [Java](https://github.com/paulAlexSerban/Java-Software-Engineering/blob/main/README.md)
 
