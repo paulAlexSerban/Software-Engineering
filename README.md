@@ -9,6 +9,7 @@
 ## [Php](https://github.com/paulAlexSerban/Php-Software-Engineering)
 
 ## DevOps
+* [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
 * [Docker Practice Workbook](https://github.com/paulAlexSerban/docker-practice-workbook)
 * [Shell Scripting Workbook](https://github.com/paulAlexSerban/Shell-Scripting-Workbook)
 
