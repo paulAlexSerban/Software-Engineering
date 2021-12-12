@@ -2,7 +2,7 @@
 
 ## Apps
 ### [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering)
-  * [Online Shop (NodeJS, ExpressJS, EJS, MVC)]()
+  * [Online Shop (NodeJS, ExpressJS, EJS, MVC)](https://github.com/paulAlexSerban/Online-Shop)
 
 ## Programming Languages
 * [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering)
