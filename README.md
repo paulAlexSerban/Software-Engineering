@@ -1,15 +1,18 @@
 # Software-Engineering
-## [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering)
-  ### Apps
+
+## Apps
   * [Online Shop (NodeJS, ExpressJS, EJS, MVC)]()
 
-## [TypeScript](https://github.com/paulAlexSerban/TypeScript-Software-Engineering)
+## Programming Languages
+### [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering)
 
-## [Java](https://github.com/paulAlexSerban/Java-Software-Engineering)
+### [TypeScript](https://github.com/paulAlexSerban/TypeScript-Software-Engineering)
 
-## [Python](https://github.com/paulAlexSerban/Python-Software-Engineering)
+### [Java](https://github.com/paulAlexSerban/Java-Software-Engineering)
 
-## [Php](https://github.com/paulAlexSerban/Php-Software-Engineering)
+### [Python](https://github.com/paulAlexSerban/Python-Software-Engineering)
+
+### [Php](https://github.com/paulAlexSerban/Php-Software-Engineering)
 
 ## DevOps
 * [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
