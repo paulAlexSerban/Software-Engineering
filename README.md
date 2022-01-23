@@ -1,9 +1,5 @@
 # Software-Engineering
 
-## Apps
-### [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering)
-  * [Online Shop (NodeJS, ExpressJS, EJS, MVC)](https://github.com/paulAlexSerban/Online-Shop)
-
 ## Programming Languages
 * [JavaScript](https://github.com/paulAlexSerban/JavaScript-Software-Engineering)
 * [TypeScript](https://github.com/paulAlexSerban/TypeScript-Software-Engineering)
