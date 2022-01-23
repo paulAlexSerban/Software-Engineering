@@ -8,12 +8,15 @@
 * [Php](https://github.com/paulAlexSerban/Php-Software-Engineering)
 * [C](https://github.com/paulAlexSerban/C---Algorithms-and-Data-Structures)
 
+## Scripting Languages
+* [Shell Scripting Workbook](https://github.com/paulAlexSerban/Shell-Scripting)
+
 ## DevOps
 * [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
 * [Docker Practice Workbook](https://github.com/paulAlexSerban/docker-practice-workbook)
-* [Shell Scripting Workbook](https://github.com/paulAlexSerban/Shell-Scripting-Workbook)
 
+## Markup Languages
+* [XML-XSLT-XQuery-XPath](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
 
 ## Mischelaneous
-* [XML-XSLT-XQuery-XPath](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
 * [VS Code Setup](https://github.com/paulAlexSerban/VS-Code_Setup)
