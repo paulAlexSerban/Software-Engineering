@@ -10,6 +10,7 @@
 * [Java](https://github.com/paulAlexSerban/Java-Software-Engineering)
 * [Python](https://github.com/paulAlexSerban/Python-Software-Engineering)
 * [Php](https://github.com/paulAlexSerban/Php-Software-Engineering)
+* [C](https://github.com/paulAlexSerban/C---Algorithms-and-Data-Structures)
 
 ## DevOps
 * [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
