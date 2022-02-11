@@ -9,7 +9,7 @@
 * [C](https://github.com/paulAlexSerban/C---Algorithms-and-Data-Structures)
 
 ## Scripting Languages
-* [Shell Scripting Workbook](https://github.com/paulAlexSerban/Shell-Scripting)
+* [Shell R&D](https://github.com/paulAlexSerban/Shell-Scripting)
 
 ## DevOps
 * [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
