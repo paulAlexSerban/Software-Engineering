@@ -13,13 +13,11 @@
 
 ## DevOps
 * [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
-* [Docker Practice Workbook](https://github.com/paulAlexSerban/docker-practice-workbook)
+* [Docker R&D](https://github.com/paulAlexSerban/Docker___R-D)
+* [Vagrant R&D]()
 
 ## Markup Languages
 * [XML-XSLT-XQuery-XPath](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
-
-## Distributed Version Control
-* [Git]()
 
 ## Mischelaneous
 * [VS Code Setup](https://github.com/paulAlexSerban/VS-Code_Setup)
