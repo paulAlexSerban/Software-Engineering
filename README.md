@@ -10,7 +10,7 @@
 
 ## Scripting Languages
 * [Shell R&D](https://github.com/paulAlexSerban/Shell-Scripting)
-* [My Shell Scripts]()
+* [My Shell Scripts](https://github.com/paulAlexSerban/my-shell-scripts)
 
 ## DevOps
 * [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
