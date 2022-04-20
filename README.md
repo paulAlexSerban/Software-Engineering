@@ -13,7 +13,6 @@
 * [My Shell Scripts](https://github.com/paulAlexSerban/my-shell-scripts)
 
 ## DevOps
-* [Project Boilerplates](https://github.com/paulAlexSerban/Project-Boilerplates)
 * [Docker R&D](https://github.com/paulAlexSerban/rnd---docker)
 * [Vagrant R&D](https://github.com/paulAlexSerban/Vagrant___R-D)
 
