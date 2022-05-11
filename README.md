@@ -10,7 +10,7 @@
 * [C++](https://github.com/paulAlexSerban/algorithms-and-data-structures--cpp)
 
 ## Scripting Languages
-* [Shell R&D](https://github.com/paulAlexSerban/Shell-Scripting)
+* [Bash & Shell - RnD](https://github.com/paulAlexSerban/rnd--bash-n-shell)
 * [My Shell Scripts](https://github.com/paulAlexSerban/my-shell-scripts)
 
 ## DevOps
