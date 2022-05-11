@@ -7,7 +7,7 @@
 * [Python](https://github.com/paulAlexSerban/Python-Software-Engineering)
 * [Php](https://github.com/paulAlexSerban/Php-Software-Engineering)
 * [C](https://github.com/paulAlexSerban/C---Algorithms-and-Data-Structures)
-* [C++](https://github.com/paulAlexSerban/cpp---algorithms-and-data-structures)
+* [C++](https://github.com/paulAlexSerban/algorithms-and-data-structures--cpp)
 
 ## Scripting Languages
 * [Shell R&D](https://github.com/paulAlexSerban/Shell-Scripting)
